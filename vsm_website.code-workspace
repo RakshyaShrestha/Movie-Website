@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "vsm_website",
+			"path": "."
+		},
+		{
+			"name": "Dataset",
+			"path": "../../Desktop/Dataset"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vsm_website"
+	}
+}

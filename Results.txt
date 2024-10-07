@@ -1,0 +1,36 @@
+
+Ranked cosine similarities for query 'drama':
+Rank 1: Document City of God.txt - Score: 0.0239
+Rank 2: Document Ikiru.txt - Score: 0.0223
+Rank 3: Document The Godfather.txt - Score: 0.0222
+Rank 4: Document Your Name (Kimi no Na w.txt - Score: 0.0209
+Rank 5: Document Interstellar.txt - Score: 0.0113
+Rank 6: Document The Intouchables.txt - Score: 0.0107
+Rank 7: Document The Walking Dead.txt - Score: 0.0097
+Rank 8: Document Coco.txt - Score: 0.0000
+Rank 9: Document Speak No Evil.txt - Score: 0.0000
+Rank 10: Document WALL·E.txt - Score: 0.0000
+
+Ranked cosine similarities for query 'animation':
+Rank 1: Document Coco.txt - Score: 0.0561
+Rank 2: Document WALL·E.txt - Score: 0.0520
+Rank 3: Document City of God.txt - Score: 0.0000
+Rank 4: Document Ikiru.txt - Score: 0.0000
+Rank 5: Document Interstellar.txt - Score: 0.0000
+Rank 6: Document Speak No Evil.txt - Score: 0.0000
+Rank 7: Document The Godfather.txt - Score: 0.0000
+Rank 8: Document The Intouchables.txt - Score: 0.0000
+Rank 9: Document The Walking Dead.txt - Score: 0.0000
+Rank 10: Document Your Name (Kimi no Na w.txt - Score: 0.0000
+
+Ranked cosine similarities for query 'horror':
+Rank 1: Document The Walking Dead.txt - Score: 0.0703
+Rank 2: Document City of God.txt - Score: 0.0000
+Rank 3: Document Coco.txt - Score: 0.0000
+Rank 4: Document Ikiru.txt - Score: 0.0000
+Rank 5: Document Interstellar.txt - Score: 0.0000
+Rank 6: Document Speak No Evil.txt - Score: 0.0000
+Rank 7: Document The Godfather.txt - Score: 0.0000
+Rank 8: Document The Intouchables.txt - Score: 0.0000
+Rank 9: Document WALL·E.txt - Score: 0.0000
+Rank 10: Document Your Name (Kimi no Na w.txt - Score: 0.0000
